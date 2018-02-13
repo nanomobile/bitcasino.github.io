@@ -1,0 +1,13 @@
+{
+"companyName": "Nano",
+"productName": "BitslerCasino",
+"dataUrl": "Bitsler.data.unityweb",
+"asmCodeUrl": "Bitsler.asm.code.unityweb",
+"asmMemoryUrl": "Bitsler.asm.memory.unityweb",
+"asmFrameworkUrl": "Bitsler.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
